@@ -1,0 +1,5 @@
+site_name: The RCD Handbook
+docs_dir: handbook
+nav:
+  - Handbook: index.md
+  - About: about.md
