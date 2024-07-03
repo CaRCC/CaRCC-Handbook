@@ -4,3 +4,9 @@ nav:
   - About: about.md
   - Handbook: index.md
   - Resources: resources.md
+plugins:
+  - search
+  - bibtex:
+      bib_file: "references.bib"
+markdown_extensions:
+  - footnotes
