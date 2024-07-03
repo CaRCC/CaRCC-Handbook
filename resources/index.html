@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-bs-theme="light">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,9 +10,13 @@
         <link rel="shortcut icon" href="../img/favicon.ico">
         <title>Resources - The RCD Handbook</title>
         <link href="../css/bootstrap.min.css" rel="stylesheet">
-        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../css/brands.min.css" rel="stylesheet">
+        <link href="../css/solid.min.css" rel="stylesheet">
+        <link href="../css/v4-font-face.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
         <script>hljs.highlightAll();</script> 
     </head>
@@ -22,7 +26,7 @@
             <div class="container">
                 <a class="navbar-brand" href="..">The RCD Handbook</a>
                 <!-- Expander button -->
-                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
@@ -30,20 +34,20 @@
                 <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li class="navitem">
+                            <li class="nav-item">
                                 <a href="../about/" class="nav-link">About</a>
                             </li>
-                            <li class="navitem">
+                            <li class="nav-item">
                                 <a href=".." class="nav-link">Handbook</a>
                             </li>
-                            <li class="navitem active">
-                                <a href="./" class="nav-link">Resources</a>
+                            <li class="nav-item">
+                                <a href="./" class="nav-link active" aria-current="page">Resources</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav ml-auto">
+                    <ul class="nav navbar-nav ms-md-auto">
                         <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
@@ -64,20 +68,24 @@
 
         <div class="container">
             <div class="row">
-                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
     <div class="navbar-header">
-        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
             <span class="fa fa-angle-down"></span>
         </button>
     </div>
 
     
-    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#resources" class="nav-link">Resources</a>
+            <li class="nav-item" data-bs-level="1"><a href="#resources" class="nav-link">Resources</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#carcc-resources" class="nav-link">CaRCC Resources</a>
+            <li class="nav-item" data-bs-level="2"><a href="#carcc-resource-guide" class="nav-link">CaRCC Resource Guide</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#references" class="nav-link">References</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -89,7 +97,34 @@
                     <div class="col-md-9" role="main">
 
 <h1 id="resources">Resources</h1>
-<h2 id="carcc-resources">CaRCC Resources</h2></div>
+<h2 id="carcc-resource-guide">CaRCC Resource Guide</h2>
+<p>The Campus Research Computing Consortium (CaRCC) has developed a number of resources over the years with the community.  This guide provides an overview of these resources and a brief historical context.</p>
+<p>The following resources are considered foundational or must-reads for those interested in RCD Professionalization.</p>
+<ul>
+<li><strong>Research Computing and Data Professionals Job Elements and Career Guide</strong><sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup>: A detailed description of the RCD Facings.  This is an early document in the history of RCD, however much of it remains relevant today.  Note: since the release of this document, the facings have been updated to have distinct software facing and data facing roles.  </li>
+</ul>
+<h3 id="rcd-ecosystem">RCD Ecosystem</h3>
+<p><strong>Fostering Collaboration Among Organizations in the Research Computing and Data Ecosystem</strong><sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup></p>
+<blockquote>
+<p>The widespread application and success of computational and data intensive research approaches in every discipline represented on our campuses has resulted in a rapid proliferation of organizations, technologies, and professions affiliated in different ways with the support and advancement of activities related to research computing and data (RCD). While most agree that this growth is helping to advance numerous disciplines, the proliferation of organizations seeking to support, promote, and advance RCD has led to some challenges. Specifically, a lack of understanding and consensus concerning which organizations should be considered a part of RCD support hampers our ability to encourage collaborations among its complementary constituents, leads to unneeded and redundant activities, and makes it difficult to identify strategic priorities and address gaps where specific needs are not being met to advance various disciplinary activities. In this paper we introduce the ecosystem metaphor to help characterize the rapidly changing relationships among the growing set of organizations that in some way support and enable activities related to RCD. The ecosystem concept lends itself well to describing the many entities related to RCD because it emphasizes the larger system over its individual component parts and highlights their interdependence, while explicitly expecting their change over time. Our work to characterize the current RCD ecosystem, while imperfect, will serve as a foundation and framework for the development of a more complete view of the ever-changing RCD ecosystem. A more complete view of the RCD ecosystem will in turn help to advance the broad goals of its members by helping to foster and accelerate new and meaningful collaborations among them.</p>
+</blockquote>
+<h3 id="professionalization">Professionalization</h3>
+<p><strong>Research Computing and Data Professionals Job Elements and Career Guide</strong><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
+<blockquote>
+<p>The guide provides a framework for the work of research computing and data professionals operating in universities, government labs, and other research-intensive settings.</p>
+</blockquote>
+<h2 id="references">References</h2>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>RCD Professionalization Working Group. Research Computing and Data Professionals Job Elements and Career Guide. Technical Report, Campus Research Computing Consortium (CaRCC), April 2018. URL: <a href="https://zenodo.org/record/7108947">https://zenodo.org/record/7108947</a>, <a href="https://doi.org/10.5281/zenodo.7108947">doi:10.5281/zenodo.7108947</a>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Sharon Broude Geva, Dana Brunson, Thomas Cheatham Iii, James Deaton, James Griffioen, Curtis W. Hillegas, Douglas M. Jennewein, Gail Krovitz, Tobin Magle, Patrick Schmitz, Karen Tomko, and James C. Wilgenbusch. Fostering Collaboration Among Organizations in the Research Computing and Data Ecosystem. In <em>Practice and Experience in Advanced Research Computing</em>, 393–401. Portland OR USA, July 2020. ACM. URL: <a href="https://zenodo.org/records/7102523">https://zenodo.org/records/7102523</a>, <a href="https://doi.org/10.1145/3311790.3396645">doi:10.1145/3311790.3396645</a>.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div></div>
             </div>
         </div>
 
@@ -97,8 +132,7 @@
             <hr>
             <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
-        <script src="../js/jquery-3.6.0.min.js"></script>
-        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/bootstrap.bundle.min.js"></script>
         <script>
             var base_url = "..",
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
@@ -111,7 +145,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <p>From here you can search these documents. Enter your search terms below.</p>
@@ -131,7 +165,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
               <table class="table">
