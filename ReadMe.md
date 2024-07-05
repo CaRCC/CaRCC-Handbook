@@ -1,6 +1,6 @@
-# The RCD Handbook
+# The CaRCC Handbook
 
-The RCD Handbook is licensed as CC by SA 3.0.
+The CaRCC Handbook is licensed as CC by SA 3.0.
 
 ## References
 The CaRCC References are maintained in Zotero at https://www.zotero.org/groups/5543276/carcc/library

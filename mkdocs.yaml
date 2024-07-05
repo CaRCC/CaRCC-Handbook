@@ -1,4 +1,4 @@
-site_name: The RCD Handbook
+site_name: The CaRCC Handbook
 docs_dir: handbook
 nav:
   - About: about.md
