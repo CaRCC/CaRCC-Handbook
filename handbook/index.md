@@ -1,11 +1,12 @@
-# CaRCC Professionals Handbook
+# CaRCC Handbook
 
-This is the CaRCC Professionals Handbook
+This is the CaRCC Handbook.
 
 ## Introduction
 
-This handbook is a guide to the CaRCC Profession.
+This handbook is a guide to CaRCC and the RCD profession.
 
 ## Facings
 
-The CaRCC Facings are as follows
+The CaRCC Facings are as follows:
+
