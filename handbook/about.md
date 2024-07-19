@@ -20,10 +20,10 @@ CaRCC is continuously evolving and open to [new ideas](/how-to-join). Get involv
 **CaRCC has also referred to (reflecting history and origin):**
 
   * The funded [NSF RCN award OAC-1620695](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1620695) (PI: Jim Bottum) “RCN: Advancing Research and Education through a national network of campus research computing infrastructures – The CaRC Consortium”, which begot the consortium.
-  * An extension of the [ACI-REF}(http://aciref.org/)** experiment, a group of campuses who banded together in an attempt to figure out how to sustain and maintain the massive growth in demand for research computing by coordinating around common researcher-facing service methodologies to develop best practices.
+  * An extension of the [ACI-REF](http://aciref.org/)** experiment, a group of campuses who banded together in an attempt to figure out how to sustain and maintain the massive growth in demand for research computing by coordinating around common researcher-facing service methodologies to develop best practices.
   * A virtual organization of committed people working to provide products that help to advance research computing and data, such as helping to define the profession, to bring communities together, and to understand the common challenges and future needs of research computing and data, broadly defined.
 
-If you have questions about CaRCC or [how to get involved](/how-to-join), please contact us at help@carcc.org!
+If you have questions about CaRCC or [how to get involved](/how-to-join), please contact us at [help@carcc.org](mailto:help@carcc.org)!
 
 ## Who ‘Leads’ CaRCC?
 CaRCC is a community-led effort, with leadership of various activities contributed by partners and volunteers at a variety of academic institutions and supporting organizations. If you had to name the Leadership Team, it is largely the people listed below.
