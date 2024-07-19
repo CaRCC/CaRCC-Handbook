@@ -37,7 +37,7 @@ The CaRCC Chairs meet every 2-4 weeks to coordinate activities between the [Peop
   * Thomas Cheatham, University of Utah (Decadal Survey; RCD Nexus co-PI; RCD Student Workforce Development)
   * Jason Christopher, UC Berkeley (HIPAA Challenges)
   * Sean Cleveland, The University of Hawaii System (EPSCoR Cyberinfrastructure)
-  * Bob Freeman, Harvard Business School (People Network)
+  * Bob Freeman, Harvard Business School (retired) (People Network)
   * Kimberly Grasch, University of Chicago (RCD Professionalization)
   * Brian Haymore, University of Utah (RCD Student Workforce Development)
   * Betsy Hillery, Purdue University (RCD Student Workforce Development, Workforce Mentoring)
@@ -46,7 +46,7 @@ The CaRCC Chairs meet every 2-4 weeks to coordinate activities between the [Peop
   * Julie Ma, Massachusetts Green High Performance Computing Center (Engagement)
   * Deb McCaffrey, Arizona State University (HIPAA Challenges)
   * Daphne McCanse (RCD Communications and Outreach)
-  * Lauren Michael, Internet2 (Logistics; People Network)
+  * Lauren Michael, Internet2 contract (Logistics; People Network)
   * Timothy Middelkoop, Internet2 (RCD Staff Workforce Development)
   * Sam Porter, University of Maryland (Career Arcs)
   * Chris Reidy, University of Arizona (Engagement)
@@ -58,22 +58,36 @@ The CaRCC Chairs meet every 2-4 weeks to coordinate activities between the [Peop
 
 
 ## People Network Coordinators
-The [People Network](/people-network) is coordinated by a team of individuals, including coordinators for focused ‘tracks’ within the network.
+The [People Network](/people-network) is coordinated by a team of individuals, including coordinators for focused Tracks within the network and supporting steering committees to assist with the ongoing monthly efforts.
 
 ## CaRCC Logistics Team
 The Logistics Team develops, coordinates, distributes, and supports the infrastructure of people and resources (email lists, Google Docs, calendars) that enable various CaRCC efforts. If you have questions about CaRCC or would like to learn more, e-mail us at [help@carcc.org](mailto:help@carcc.org).
 
 **As of 2024, the Logistics Team includes:**
 
-  * Dana Brunson, Internet2 (co-chair, former People Network co-Coordinator and on several Working Groups)
+  * Dana Brunson, Internet2 (co-chair, Capabilities Model co-chair, and on several Working Groups)
+  * Lauren Michael, Internet2 contract (co-chair, People Network co-Coordinator, and on several Working Groups)
   * Tom Cheatham, University of Utah (acting CaRCC Chair and on several Working Groups)
-  * Lauren Michael, Minority Serving Cyberinfrastructure Consortium (MS-CC/Internet2) (co-chair, People Network co-Coordinator and on several Working Groups)
   * Timothy Middelkoop, Internet2, (Staff Workforce Co-chair)
   * Patrick Schmitz, Semper Cogito (Capabilities Model co-chair, Career Arcs co-chair and on several Working Groups)
-  * Bob Freeman, Harvard Business School (Engagement; People Network)
-  * Daphne McCanse, CaRCC Communications and Engagement Lead
+  * Bob Freeman, Harvard Business School (retired) (Engagement; People Network)
+  * Daphne McCanse, CaRCC Communications (Engagement, and on several Working Groups)
 
-Past contributors: Rich Knepper, Cornell University; Ruth Marinshaw, Stanford University
+Past contributors: Rich Knepper, Cornell University; Ruth Marinshaw, Stanford University; Scott Yockel, Harvard University
+
+Logistics also oversees Web and Metrics teams, volunteers who assist with web content and can help us understand our community and inform our activities. These teams members include:
+
+  * Kirk Anne
+  * Sean Cleveland
+  * Bob Freeman
+  * Kerk Kee
+  * Timothy Middelkoop
+  * Anita Orendt
+  * Emilie Parra
+  * Patrick Schmitz
+  * Gabriel Smith
+  * Gil Speyer
+Past contributors: Abby, Wei Yin, Chris Reidy
 
 ## Engagement Group
 
@@ -84,21 +98,20 @@ The Engagement Operational Group was established in 2019 with big aims:
   * Develop and prioritize short- and longer-term activities to encourage and promote participation in CaRCC-related activities
   * Coordinate with other working groups to accomplish high priority and easily completed objectives
 
-**The Engagement Team includes:**
+**As of 2024, the Engagement Team includes:**
 
   * Cyd Burrows-Schilling, University of California San Diego
   * Tom Cheatham, University of Utah
-  * Bob Freeman, Harvard Business School
-  * Brian Haymore, University of Utah
+  * Bob Freeman, Harvard Business School (retired)
   * Ann Kovalchick, University of California Merced, retired
   * Julie Ma, Massachusetts Green High Performance Computing Center
-  * Claire Mizumoto, University of California San Diego
   * Chris Reidy, University of Arizona
   * Tracy Smith, University of Illinois at Urbana Champaign
+Past contributors: Claire Mizumoto, Brian Haymore
 
 **How to get involved**
 
-The Engagement Group has calls the 1st and 3rd Wednesday at 1 PM ET. If you want to contribute or help the group engage other research computing and data professionals who are not yet represented, please contact co-Chairs Julie Ma (MGHPCC) and Chris Reidy (U Arizona).
+The Engagement Group has calls on the 1st and 3rd Wednesdays at 1 PM ET. If you want to contribute or help the group engage other research computing and data professionals who are not yet represented, please contact co-Chairs Julie Ma (MGHPCC) and Chris Reidy (U Arizona) or contact all.
 
 **CaRCC Advisory Committee**
 As described in our charter, CaRCC has an Advisory Committee constituting a broader community of visionaries and volunteers in the RCD community that advises the CaRCC Chairs Leadership Team. We sincerely appreciate the time and engagement of our Advisory Committee members.
