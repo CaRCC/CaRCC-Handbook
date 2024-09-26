@@ -5,7 +5,6 @@ The CaRCC Handbook is licensed as CC by SA 3.0.
 ## References
 The CaRCC References are maintained in Zotero at https://www.zotero.org/groups/5543276/carcc/library
 
-
 ## Development
 
 To develop locally run the following to setup the software.
